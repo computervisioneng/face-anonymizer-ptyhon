@@ -6,4 +6,4 @@ Face anonymizer using Python and OpenCV !
 
 ## data
 
-You can download the data I used in this tutorial [here](https://drive.google.com/drive/folders/1xzA0qtD9XrxajjTvZvqi9StXzxVXB9n5?usp=share_link).
+You can download the data I used in this tutorial [here](https://drive.google.com/drive/folders/1mKDuj5GBtKtCQyS9hm61171peN-KAOLu?usp=sharing).
